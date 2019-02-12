@@ -1,6 +1,6 @@
 section .data
 
-message db "Hello world | Davuzk", 10
+message db "Hello world | Struct", 10
 
 section .text
 	
